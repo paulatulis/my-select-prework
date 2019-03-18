@@ -6,3 +6,6 @@ if yield(collection[i]) == true
   new_collection << collection[i]
  i = i+1 
 end
+new_collection 
+end 
+
